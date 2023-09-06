@@ -1,3 +1,0 @@
-## FivebyFive.social mastodon server still down
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My mastodon server did not like the move from the old server. Nginx is very unhappy. I&#39;m having to start over on bringing up a node.</p>&mdash; Jessica Mulein 🫂🖖🇺🇦🌻🇺🇲🆘 (@JessicaMulein) <a href="https://twitter.com/JessicaMulein/status/1548440254612267010?ref_src=twsrc%5Etfw">July 16, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
